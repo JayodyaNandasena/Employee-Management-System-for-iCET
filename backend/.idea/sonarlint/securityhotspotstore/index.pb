@@ -29,3 +29,15 @@ g
 7src/main/java/edu/emp/service/impl/RoleServiceImpl.java,2\b\2b35fd90063dd211967d08583f17b5fcc3f6610a
 X
 (src/main/java/edu/emp/config/Config.java,3\2\32b10ff153871b05cae4aba8bf502b2b884e91a4
+b
+2src/main/java/edu/emp/entity/DepartmentEntity.java,8\a\8addb45f1ceabdb9dc51e366141d84f10befa5e0
+Y
+)src/main/java/edu/emp/dto/Department.java,4\f\4f095f018d008990e19d51b05eaaf289117da3c7
+j
+:src/main/java/edu/emp/repository/DepartmentRepository.java,7\2\727898b518fe2803c03e883ff061a4638510effe
+d
+4src/main/java/edu/emp/service/DepartmentService.java,e\9\e9493ab007cf121a66a25190de8f1223ec4c485d
+m
+=src/main/java/edu/emp/service/impl/DepartmentServiceImpl.java,9\7\972548e878c624ed6520c267d66c05153586dba1
+j
+:src/main/java/edu/emp/controller/DepartmentController.java,5\e\5eda97121c9e8ef1c445010fc1ca834f9587a2d5
